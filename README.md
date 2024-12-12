@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2305vansh (Vansh Khanna), 1st year Btech Student, and a Web Developer and UX UI Designer. 
+- 👋 Hi, I’m @0xfabb (Vansh Khanna), 1st year Btech Student, and a Web Developer and UX UI Designer. 
 - 👀 I’m interested in addressing problems through my art and design and Solving real life problems through my Programming and development knowledge  
 - 🌱 I’m currently learning JavaScript and Typescript
 - 💞️ I’m looking to collaborate on Multiple cool projects with awesome people here, 
