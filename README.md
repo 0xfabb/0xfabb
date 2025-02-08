@@ -1,4 +1,4 @@
-👋 Hi, I'm Vansh Khanna from JSS Noida. I’m currently working on Eco-Verse, Docusense as a full stack MERN developer and at ChainWork as a Frontend Developer. <br>👯 I’m looking to collaborate on Open Source Projects and Hackathons.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Next.js and Three.js<br>💬 Ask me about Frontend and React<br>⚡ Fun fact - 'Creativity is Awesome'
+👋 Hi, I'm Vansh Khanna from JSS Noida. I’m currently working on Eco-Verse, Docusense as a full stack MERN developer and at ChainWork as a Frontend Developer. <br> <br> <ul> <li>👯 I’m looking to collaborate on Open Source Projects and Hackathons.</li><li>🌱 I’m currently learning Next.js and Three.js</li><li>💬Ask me about Frontend and React</li><li>⚡ Fun fact - 'Creativity is Awesome'</li></ul>
 
 
 # 💻 Tech Stack:
