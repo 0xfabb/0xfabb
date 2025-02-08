@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Eco-Connect a Environment Sustainability web app with features such as rewards and informative blogs and contests and community chats. I am working as a Frontend Developer using React to build the entire frontend and using firebase as BAAS.<br>👯 I’m looking to collaborate on Open Source Projects and Hackathons.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Next.js and Three.js<br>💬 Ask me about Frontend and React<br>⚡ Fun fact - 'Creativity is Awesome'
+👋 Hi, I'm Vansh Khanna from JSS Noida. I’m currently working on Eco-Verse, Docusense as a full stack MERN developer and at ChainWork as a Frontend Developer. <br>👯 I’m looking to collaborate on Open Source Projects and Hackathons.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Next.js and Three.js<br>💬 Ask me about Frontend and React<br>⚡ Fun fact - 'Creativity is Awesome'
 
 
 # 💻 Tech Stack:
